@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="./img/logo_nlw_spacetime.png" alt="Markdownify" width="200"></a>
+  <a href=""><img src="./img/logo_nlw_spacetime.png" alt="NlwSpacetime" width="200"></a>
   <br>
   NLW Spacetime Server
   <br>
